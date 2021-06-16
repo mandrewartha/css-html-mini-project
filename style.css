@@ -1,0 +1,61 @@
+body {
+    background-color:beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    padding:15px;
+    border: 5px solid grey;
+    margin: 20px auto;
+    display:block
+}
+
+ul {
+    list-style: none;
+}
+
+header {
+    background-color:darkgreen;
+    height: 60px;
+    border-bottom: 10px solid goldenrod;
+    text-align: right;
+    color: white;   
+}
+
+.links {
+    outline: 2px solid;
+    position:relative;
+    top: 30px;
+}
+
+a:visited {
+    color:white;
+}
+
+li {
+    text-align: center;
+}
+
+figcaption, h1, footer {
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    width: 100px;
+}
+
+footer {
+    background-color: darkgreen;
+}
+
+form {
+    border: 4px solid black;
+    height: 200px;
+    width: 400px;
+    margin:auto
+}
+
+a {
+    text-decoration:none;
+}
